@@ -1,5 +1,5 @@
 # Data-Structure-and-Algorithms
-Preparation for Interview
+
 
 ## Array
 1. 数据结构中有哪些是线性表数据结构？
